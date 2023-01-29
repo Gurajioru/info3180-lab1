@@ -8,3 +8,26 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+h1 {
+  text-align: center;
+  font-size: 23px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #4A5568;
+
+}
+
+p {
+  text-align: center;
+  font-size:13px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:#4A5568;
+
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
